@@ -15,13 +15,13 @@
         <form method="post" action="validarLogin.php">
 
             <div class="form-group">
-                <label for="username">Usuario:</label>
-                <input type="text" id="username" name="username" placeholder="" required>
+                <label for="username">Correo Electronico:</label>
+                <input type="text" id="correo" name="correo" placeholder="" required>
             </div>
 
             <div class="form-group">
                 <label for="password">Contraseña:</label>
-                <input type="password" id="password" name="password" placeholder="" class="form-control" required>
+                <input type="password" id="contraseña" name="contraseña" placeholder="" required>
             </div>
 
             <div class="checkbox-container">
